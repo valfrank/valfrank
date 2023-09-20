@@ -34,7 +34,7 @@
 <div id="badges">
     <a href="https://www.linkedin.com/in/vrostovtseva/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-    <a href=" https://scholar.google.com/citations?user=_9zIaEwAAAAJ&hl=ru" target="_blank">
+    <a href="https://scholar.google.com/citations?user=_9zIaEwAAAAJ&hl=ru" target="_blank">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google"/>
      <a href="https://www.kaggle.com/valeriiarostovtseva" target="_blank">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
