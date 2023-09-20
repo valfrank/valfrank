@@ -1,4 +1,4 @@
-### 👋 Hello, Data Explorer in the Making! 🌱
+### 👋 Hello, I am Valeriia, Data Explorer in the Making 🌱
 
 🌱 **My Beginnings:** I've recently begun my adventure into the fascinating world of data science, and I'm here to learn, grow, and contribute.
 
