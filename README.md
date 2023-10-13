@@ -28,6 +28,7 @@
 ### 📝 My Projects 
 - [Data Science Projects from Yandex.Practicum Course](https://github.com/valfrank/YandexPracticum_DS-Plus)
 - [Airline passenger satisfaction Streamlit App](https://github.com/valfrank/streamlite_app)
+- [Propensity model for bank Streamlit+FastAPI](https://github.com/valfrank/propensity_model_for_bank)
 
 ---
 ### 🚀 Find me
